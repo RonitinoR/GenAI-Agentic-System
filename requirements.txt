@@ -1,0 +1,14 @@
+pandas
+requests
+python-dotenv
+faiss
+jsonlines
+pyspark
+openai
+langchain
+langchain-community
+langchain_openai
+scikit-learn
+setuptools
+streamlit
+tiktoken
